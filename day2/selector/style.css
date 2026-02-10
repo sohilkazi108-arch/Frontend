@@ -1,0 +1,43 @@
+#heading{
+    color: blueviolet;
+    font-size: 30px;
+    background-color: azure;
+    text-align: center;
+}
+.para{
+    color: blueviolet;
+    font-size: 20px;
+    background-color: yellow;
+}
+a[href="https://www.instagram.com/"]{
+    color: gold;
+    font-size: 40px;
+}
+section article div h2{
+    color: aliceblue;
+    font-size: 50px;
+    background-color: rgb(17, 122, 213);
+}
+section  p{
+    color: aliceblue;
+    font-size: 30px;
+
+}
+.box{
+    width: 300px;
+    height: 300px;
+    border: 2px solid rgb(6, 6, 6);
+    background-color: yellow;
+
+    
+}
+.box:hover{
+    background-color: aqua;
+    border-radius: 50%;
+}
+a[href="https://www.youtube.com/"]:active{
+    color: blueviolet;
+    font-size: 50px;
+
+}
+    
